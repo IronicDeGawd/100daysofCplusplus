@@ -1,0 +1,31 @@
+# Build directories
+**/build/
+**/out/
+
+# Executables
+**/program
+*.exe
+*.out
+
+# C++ specific
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# IDE specific
+**/.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
